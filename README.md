@@ -4,7 +4,7 @@ OpenRTB 工程主要是整理的广告相关知识文档以及业界相关规范
     + [术语](https://github.com/leeowenowen/OpenRTB/blob/master/Terms.md)
 - 翻译
     + [OpenRTB规范](https://github.com/leeowenowen/OpenRTB/blob/master/OpenRTBAPI.md)
-    + [OpenRTB原生广告规范 Not Implement]()
+    + [OpenRTB原生广告规范](https://www.iab.com/wp-content/uploads/2018/03/OpenRTB-Native-Ads-Specification-Final-1.2.pdf)
     + [QAG质量保证指南 Not Implement]()
     + [VAST视频广告服务模板 Not Implement]()
 
